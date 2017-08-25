@@ -1,0 +1,14 @@
+meraki_app,meraki_action,status_code,status,rule
+urls,0,200,200,Meraki URL category allowed
+urls,1,403,403,Meraki URL category denied
+events,0,200,200,Meraki TODO undefined rule allowed
+events,1,403,403,Meraki TODO undefined rule denied
+flows,allow,,,Meraki FLOWS IP connection allowed
+flows,deny,,,Meraki FLOWS IP connection denied
+flows,1,,,Meraki FLOWS IP connection denied
+flows,0,,,Meraki FLOWS IP connection allowed
+events-content_filtering_block,1,403,403,Meraki URL category denied
+events-dhcp,0,,,Meraki DHCP success
+events-dhcp,1,,,Meraki DHCP failure
+events-port,0,,success,Meraki change in port status
+events-authentication,0,,success,Meraki authentication success

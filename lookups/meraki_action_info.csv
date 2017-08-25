@@ -1,0 +1,9 @@
+meraki_action,action
+0,allowed
+1,blocked
+2,added
+allow,allowed
+deny,blocked
+10,blocked
+connected,allowed
+unable,unknown
