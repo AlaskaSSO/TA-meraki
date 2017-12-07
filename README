@@ -130,12 +130,12 @@ inputs.conf
 [default]
 host_segment = 4
 [monitor:///logpartition/logs/meraki/*/2016/...]
-SHOULD_LINEMERGE=false
+#SHOULD_LINEMERGE=false
 sourcetype = meraki
 index=meraki
 
 [monitor:///logpartition/logs/meraki/*/2017/...]
-SHOULD_LINEMERGE=false
+#SHOULD_LINEMERGE=false
 sourcetype = meraki
 index=meraki
 
