@@ -1,5 +1,5 @@
 # TA-meraki
-TA-meraki 1.0.8
+TA-meraki 1.0.9
 Cisco Meraki Technology Adapter
 Supports all tested versions of Splunk (tested up to 6.4)
 
@@ -18,8 +18,12 @@ If you have log lines which match that search I would appreciate anyone sending 
 
 
 CHANGELOG: 
+
+Version 1.0.9
+minor fixes
+
 Version 1.0.8
-Preliminary support for WPA Meraki devices thank you John Ward from spicosolutions
+Preliminary support for WAP Meraki devices thank you John Ward from spicosolutions
 
 Version 1.0.7
 Released under (CC BY-SA 3.0) license
