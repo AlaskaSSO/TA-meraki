@@ -1,7 +1,7 @@
 # TA-meraki
-TA-meraki 1.0.9
+TA-meraki 1.1.1
 Cisco Meraki Technology Adapter
-Supports all tested versions of Splunk (tested up to 6.4)
+Supports all tested versions of Splunk (tested up to 7.x)
 
 This application is primarily supported via the following splunk answers forum:
 https://github.com/AlaskaSSO/TA-meraki
@@ -18,6 +18,9 @@ If you have log lines which match that search I would appreciate anyone sending 
 
 
 CHANGELOG: 
+Version 1.1.1
+Handle both strip and non-strip of \d{4,}\.\d{4,}
+
 Version 1.1.0
 Started to fill out CIM for wireless ids and network session start/stop.  I don't have a definition for wireless ips, so
 I put everything as informational and blocked for now
