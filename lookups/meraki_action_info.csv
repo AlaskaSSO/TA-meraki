@@ -7,6 +7,6 @@ deny,blocked
 10,blocked
 connected,allowed
 unable,unknown
-association,added
-disassociation,removed
+association,connect
+disassociation,disconnect
 blocked,blocked
