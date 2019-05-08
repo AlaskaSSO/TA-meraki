@@ -18,6 +18,10 @@ If you have log lines which match that search I would appreciate anyone sending 
 
 
 CHANGELOG: 
+Version 1.1.0
+Started to fill out CIM for wireless ids and network session start/stop.  I don't have a definition for wireless ips, so
+I put everything as informational and blocked for now
+
 Version 1.0.9
 minor fixes
 
