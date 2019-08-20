@@ -1,5 +1,5 @@
 # TA-meraki
-TA-meraki 1.1.1
+TA-meraki 1.1.2
 Cisco Meraki Technology Adapter
 Supports all tested versions of Splunk (tested up to 7.x)
 
@@ -18,6 +18,9 @@ If you have log lines which match that search I would appreciate anyone sending 
 
 
 CHANGELOG: 
+Version 1.1.2
+Thank you Jason Mantor for finding an WARN in the lease_scope.
+
 Version 1.1.1
 Handle both strip and non-strip of \d{4,}\.\d{4,}
 
