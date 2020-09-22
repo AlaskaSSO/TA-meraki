@@ -1,5 +1,5 @@
 # TA-meraki
-TA-meraki 1.1.4
+TA-meraki 1.1.5
 Cisco Meraki Technology Adapter
 Supports all tested versions of Splunk (tested up to 7)
 
@@ -17,7 +17,10 @@ Request:  Currently most of all of the log lines are being correctly identified.
 If you have log lines which match that search I would appreciate anyone sending them in so I add additional extractions/identification.
 
 
-CHANGELOG: 
+CHANGELOG:
+Version 1.1.5
+Change in the flows format, new regex; thank you Philip Kohn
+
 Version 1.1.4
 From Peter McCarthy, not all X.X are 4digit+4digit from Meraki, changing..
 
